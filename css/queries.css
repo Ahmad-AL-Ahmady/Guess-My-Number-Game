@@ -17,7 +17,11 @@
         font-size: 37.5%;
     }
 
+    header {
+        height: 25vh
+    }
+
     main {
-        height: 60vh
+        height: 50vh
     }
 }
