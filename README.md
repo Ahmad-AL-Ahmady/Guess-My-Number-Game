@@ -14,7 +14,7 @@ Welcome to the **Guess My Number Game** repository! This project is a fun, inter
 
 ## Demo
 
-Check out the live demo of the game [here](#). *(Replace `#` with the link to your live demo if available)*
+Check out the live demo of the game [Guess My Number](https://guess-my-number-alahmady.netlify.app/)
 
 ## Features
 
@@ -70,5 +70,3 @@ Contributions are welcome! If you have suggestions for improvements, please foll
 3. Commit your changes (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
-
-### You can also visiy this URL to play the game now: [Guess My Number](https://guess-my-number-alahmady.netlify.app/)
