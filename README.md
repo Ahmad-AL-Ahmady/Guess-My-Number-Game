@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/e349a22c-ac9c-449e-b21a-c34b81e798e2)
 # Guess My Number Game
 
 Welcome to the **Guess My Number Game** repository! This project is a fun, interactive number-guessing game built with HTML, CSS, and JavaScript.
