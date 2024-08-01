@@ -9,11 +9,15 @@
 }
 
 /************************/
-/*below 432px (Tablets) */
+/*below 432px (Mobile Phones) */
 /************************/
 
 @media(max-width: 27em) {
     html {
         font-size: 37.5%;
+    }
+
+    main {
+        height: 60vh
     }
 }
